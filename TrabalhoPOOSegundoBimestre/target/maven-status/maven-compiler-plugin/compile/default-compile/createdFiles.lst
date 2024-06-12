@@ -1,0 +1,15 @@
+br\unipar\ads\trabalhopoosegundobimestre\infraestructure\ConnectionFactory.class
+br\unipar\ads\trabalhopoosegundobimestre\services\CachorroService.class
+br\unipar\ads\trabalhopoosegundobimestre\services\PelagemService.class
+br\unipar\ads\trabalhopoosegundobimestre\repository\RacaRepository.class
+br\unipar\ads\trabalhopoosegundobimestre\TrabalhoPOOSegundoBimestre.class
+br\unipar\ads\trabalhopoosegundobimestre\services\RacaService.class
+br\unipar\ads\trabalhopoosegundobimestre\models\Raca.class
+br\unipar\ads\trabalhopoosegundobimestre\services\CorService.class
+br\unipar\ads\trabalhopoosegundobimestre\repository\PelagemRepository.class
+br\unipar\ads\trabalhopoosegundobimestre\models\Cachorro.class
+br\unipar\ads\trabalhopoosegundobimestre\exceptions\NegocioException.class
+br\unipar\ads\trabalhopoosegundobimestre\models\Cor.class
+br\unipar\ads\trabalhopoosegundobimestre\models\Pelagem.class
+br\unipar\ads\trabalhopoosegundobimestre\repository\CachorroRepository.class
+br\unipar\ads\trabalhopoosegundobimestre\repository\CorRepository.class
